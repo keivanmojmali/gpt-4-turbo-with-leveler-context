@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/keivan/Desktop/ml-repos/gpt-4-turbo-with-leveler-context/env/bin/python -m PyQt5.pylupdate_main ${1+"$@"}
